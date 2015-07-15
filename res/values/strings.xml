@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntentDemo</string>
+    <string name="hello_world">Hello world!</string>
+	
+    <string name="input_txt">请输入数据：</string>
+    <string name="submit_btn">提  交</string>
+    
+    <string name="description_txt">当n&lt;=0时：n=n+0\n当0&lt;n&lt;=10时：n=n+1\n当n&gt;10时：n=n+10</string>
+    <string name="return_btn">返  回</string>
+</resources>
